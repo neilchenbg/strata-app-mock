@@ -1,0 +1,22 @@
+[  
+  {  
+    "id":18250,
+    "name":"Book Club",
+    "image":"m?pg=ShowLogo&code=1540956524000&type=5&domainId=11605529",
+    "description":"join to read",
+    "status":null,
+    "isSubscribe":false,
+    "categoryId":7664,
+    "categoryName":null
+  },
+  {  
+    "id":18251,
+    "name":"Fashion",
+    "image":"m?pg=ShowLogo&code=1540957797000&type=5&domainId=11605530",
+    "description":null,
+    "status":null,
+    "isSubscribe":false,
+    "categoryId":7669,
+    "categoryName":null
+  }
+]

@@ -1,0 +1,36 @@
+{  
+  "campusId":383,
+  "host":"https://ccstage.campuscruiser.com",
+  "logo":"",
+  "campusName":"HuaXin TianDi",
+  "theme":"REDL",
+  "loginBGColor":null,
+  "loginBGImage":"",
+  "timeZone":"America/New_York",
+  "timeOffset":"-18000000",
+  "dateFormat":"mdy",
+  "isExternalLogin":false,
+  "campusDesign":{  
+    "primaryColor":"#411ffa",
+    "primaryForeground":"#ffffff",
+    "secondaryColor":"#984813",
+    "secondaryForeground":"#ffffff",
+    "menu":{  
+      "background":"",
+      "foreground":"",
+      "highlight":""
+    },
+    "headerToolbar":{  
+      "background":"",
+      "foreground":""
+    },
+    "primaryButton":{  
+      "background":"",
+      "foreground":""
+    },
+    "headline":{  
+      "background":"",
+      "foreground":""
+    }
+  }
+}

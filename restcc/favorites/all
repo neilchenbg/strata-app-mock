@@ -1,0 +1,110 @@
+[  
+  {  
+    "favId":1298,
+    "refId":212,
+    "title":"Strata Stadium",
+    "summary":null,
+    "thumbnail":"CCWeb/style/392/22.392/STRATA_CP_MAP-1521472168760.jpeg",
+    "type":"CampusMap",
+    "seq":13
+  },
+  {  
+    "favId":1297,
+    "refId":211,
+    "title":"Jadwin Gym",
+    "summary":"Indoor Track",
+    "thumbnail":"CCWeb/style/392/22.392/STRATA_CP_MAP-1521472214092.jpeg",
+    "type":"CampusMap",
+    "seq":12
+  },
+  {  
+    "favId":1296,
+    "refId":210,
+    "title":"Frist Campus Center",
+    "summary":null,
+    "thumbnail":"CCWeb/style/392/22.392/STRATA_CP_MAP-1521472253958.jpeg",
+    "type":"CampusMap",
+    "seq":11
+  },
+  {  
+    "favId":1295,
+    "refId":1317003,
+    "title":"Foundation Scholarships Deadline 4/30/18",
+    "summary":"Foundation Scholarships are awarded in&nbsp;April for the fall and spring semester of the following academic year. Applications are available on the Strata U Website or in the Advancement office. Deadline for submitting applications is March 30. A number of local organizations, businesses, and individuals provide scholarships to students through the Northeast Foundation. These scholarships are awarded by the Northeast Scholarship Committee. Contact the Financial Aid for information and applications.&nbsp;",
+    "thumbnail":null,
+    "type":"Announcement",
+    "seq":10
+  },
+  {  
+    "favId":1294,
+    "refId":1317009,
+    "title":"Student Government Election - Mandatory Interest Sessions",
+    "summary":"The Student Government Fall Elections for the 2018-19 school year are right around the corner and we want to invite you to consider taking part in this important campus organization. Be a voice for your fellow students and contribute your talents to making Strata University&nbsp;the best it can be. Student Government members represent all&nbsp;students by actively participating in student services improvement,&nbsp;governance, event planning, institutional policy development and much more.The following positions are open:For Second Year Students Only: Sophomore Class Council (Treasurer, Secretary, Vice President or President)For Third Year Students Only: Junior Class Council (Treasurer, Secretary, Vice President or President)For Fourth Year Students Only: Senior Class Council (Treasurer, Secretary, Vice President or President) &nbsp; &nbsp; In order to run, please register for and attend one of the mandatory interest sessions, each Monday in February in the in the Student Center Room 201 from 6:00 PM to 8:00",
+    "thumbnail":null,
+    "type":"Announcement",
+    "seq":9
+  },
+  {  
+    "favId":1293,
+    "refId":1317006,
+    "title":"Now Strata University Offers FREE Shuttle Service Between City Center and Lake Campuses",
+    "summary":"Students at Strata University will soon be able to take advantage of a free shuttle service that will operate between the City Center and Lake Campuses, county officials announced on Monday. The service was the brainchild of student John Smith, a City Center resident who found it challenging to reach the Lake Campus. Most of the nursing student’s classes are in City Center, but he also needs access to the Lake Campus. So she started a petition. After gathering 300 signatures, she presented her petition to the college, and his idea became a reality. The shuttle comes courtesy a partnership between the college and the county. It will run Monday through Friday, 7 a.m. to 4 p.m., beginning Feb 1st.",
+    "thumbnail":null,
+    "type":"Announcement",
+    "seq":8
+  },
+  {  
+    "favId":1281,
+    "refId":1996045295,
+    "title":"One Drive Training Session",
+    "summary":null,
+    "thumbnail":"1541530800586",
+    "type":"Event",
+    "seq":7
+  },
+  {  
+    "favId":1279,
+    "refId":802674,
+    "title":"IT Help Desk",
+    "summary":null,
+    "thumbnail":"m?pg=Bookmark-Icon&bookmarkId=802674&cx=22.392",
+    "type":"CampusLink",
+    "seq":6
+  },
+  {  
+    "favId":1278,
+    "refId":802624,
+    "title":"Bookstore",
+    "summary":null,
+    "thumbnail":"m?pg=Bookmark-Icon&bookmarkId=802624&cx=22.392",
+    "type":"CampusLink",
+    "seq":5
+  },
+  {  
+    "favId":1277,
+    "refId":794449,
+    "title":"Student Health Center",
+    "summary":null,
+    "thumbnail":"m?pg=Bookmark-Icon&bookmarkId=794449&cx=22.392",
+    "type":"CampusLink",
+    "seq":4
+  },
+  {  
+    "favId":1276,
+    "refId":794448,
+    "title":"Dining &amp; Meal Plans",
+    "summary":null,
+    "thumbnail":"m?pg=Bookmark-Icon&bookmarkId=794448&cx=22.392",
+    "type":"CampusLink",
+    "seq":3
+  },
+  {  
+    "favId":1275,
+    "refId":794374,
+    "title":"Career Center",
+    "summary":null,
+    "thumbnail":"m?pg=Bookmark-Icon&bookmarkId=794374&cx=22.392",
+    "type":"CampusLink",
+    "seq":2
+  }
+]
